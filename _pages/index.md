@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # TAMPA
-![image](https://github.com/Yuri-Yokoyama7/GIT-HUB_WebSite/blob/main/assets/images/istockphoto-535415025-612x612.jpg)
+![image](https://yuri-yokoyama7.github.io/GIT-HUB_WebSite/assets/images/istockphoto-535415025-612x612.jpg)
 
 
 ## About Tampa
