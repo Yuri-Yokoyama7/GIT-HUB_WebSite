@@ -1,3 +1,9 @@
+---
+title: ""ここにタイトル"
+author: default
+permalink: /
+---
+
 # TAMPA
 ![image](https://github.com/Yuri-Yokoyama7/GIT-HUB_WebSite/blob/main/assets/images/istockphoto-535415025-612x612.jpg)
 
