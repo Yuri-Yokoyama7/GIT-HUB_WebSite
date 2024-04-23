@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "TAMPA"
 author: default
 permalink: /
 ---
@@ -10,19 +10,10 @@ permalink: /
 
 
 
----
 
-以下テンプレート
-
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
-
-改行は、行末に半角スペースを2個いれる
-次の行
+# TAMPA
+## About Tampa
+>Tampa, located on the west coast of Florida, is a vibrant city known for its rich cultural diversity, historic landmarks, and beautiful waterfront views. Home to over 390,000 residents, Tampa offers a blend of urban sophistication and natural beauty. The city boasts a thriving arts and entertainment scene, with attractions like the Tampa Museum of Art and the Straz Center for the Performing Arts. Sports enthusiasts flock to Tampa for its professional teams, including the Tampa Bay Buccaneers and the Tampa Bay Lightning. With its warm climate, Tampa's outdoor activities are abundant, from strolling along the Tampa Riverwalk to exploring nearby beaches like Clearwater and St. Pete. Additionally, Tampa's diverse culinary scene reflects its multicultural population, offering everything from fresh seafood to Cuban cuisine. Overall, Tampa provides a dynamic blend of history, culture, and outdoor recreation, making it a sought-after destination in Florida.
 
 [リンク](https://www.google.co.jp/)
 
